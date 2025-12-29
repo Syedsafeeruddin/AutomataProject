@@ -10,7 +10,7 @@ export default function App() {
       <div className="flex flex-col items-center w-full max-w-6xl p-4">
         
         <h1 className="text-5xl font-bold text-cyan-400 mb-12 drop-shadow-lg text-center">
-          Validation System
+          Validation System & Pattern Recognizer
         </h1>
 
         <div className="w-full grid grid-cols-1 md:grid-cols-2 gap-8">
